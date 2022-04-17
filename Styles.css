@@ -1,7 +1,38 @@
+
 body {
     margin: 0;
     background: #363940;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.headClass{
     text-align: center;
-    color:white
+    font-size: 70px;
+}
+
+
+.searching{
     
+    margin-top: 5%;
+}
+
+.searchClass{
+    text-align: center;
+    font-size: 50px;
+    
+
+    
+}
+
+.searchInput{
+    align-items: center;
+    width: 600px;
+    height: 60px;
+    border: 2px solid orange;
+    font-family: inherit;
+    font-size: inherit;
+    background: inherit;
+    color: inherit;
+
 }

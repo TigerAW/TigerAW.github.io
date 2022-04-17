@@ -8,7 +8,7 @@ body {
 
 .headClass{
     text-align: center;
-    font-size: 70px;
+    font-size: 250%;
 }
 
 
@@ -19,7 +19,7 @@ body {
 
 .searchClass{
     text-align: center;
-    font-size: 50px;
+    font-size: 220%;
     
 
     
@@ -27,8 +27,8 @@ body {
 
 .searchInput{
     align-items: center;
-    width: 600px;
-    height: 60px;
+    width: 30%;
+    height: 5%;
     border: 2px solid orange;
     font-family: inherit;
     font-size: inherit;

@@ -34,5 +34,11 @@ body {
     font-size: inherit;
     background: inherit;
     color: inherit;
+    border-radius: 5px;
 
+}
+
+.searchBox{
+    text-align: center;
+    font-size: 220%;
 }

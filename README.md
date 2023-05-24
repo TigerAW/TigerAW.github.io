@@ -1,2 +1,2 @@
 # TigerAW.github.io
-What Am I Doing?
+Vanilla HTML and JavaScript Practice 
